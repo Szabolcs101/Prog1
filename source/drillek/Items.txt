@@ -1,0 +1,10 @@
+lemon 32 4.87
+orange 4.11
+banana 14 4.62
+peach 5 8.65
+apple 73 1.23
+kiwi 8 8.64
+cherry 54 3.23
+lime 1 3.32
+pear 10 5.24 
+melon 42 7.43
